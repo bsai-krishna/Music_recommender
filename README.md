@@ -1,4 +1,4 @@
-# Musica - A music recomendation system
+# A music recomendation system
 
 
 This project is music prediction system that works on the basis of scoring of each app by each user and hence merge it to form a prediction.
